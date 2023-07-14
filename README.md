@@ -31,9 +31,7 @@ Installation and use:
 
 License: None
 
-Program expansion and improvement
-
-Description of the idea:
+Program expansion and improvement. Description of the idea:
 
 1. Add a new game "Tic-Tac-Toe" to the entertainment block of the program. The user can choose the game mode: "Two players" where you can play with another person, or "Auto" where the user plays with the program.
 2. Consider adding a GUI developed using Tkinter to the assistant so that the program is not limited to a console application.
